@@ -41,7 +41,7 @@ Please make sure that you are actually posting about a bug/issue with how  Input
 
 ---
 
-## 💁🏻 About
+<details><summary>💁🏻 About Me</summary>
 
 Hi there, my name is Eric. I code things and do stuff.
 
@@ -50,3 +50,4 @@ That's about it!
 
 > **Note**<br/>
 I am unsure how I will publish InputLayers. I believe it will be freely accessible for a certain duration, and may be come pay-as-you-want or possibly paid (nothing too expensive) after an initial beta period.
+</details>

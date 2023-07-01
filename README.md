@@ -41,7 +41,7 @@ Please make sure that you are actually posting about a bug/issue with how  Input
 
 ---
 
-<details><summary>💁🏻 About Me</summary>
+<details><summary><h3>💁🏻 About Me</h3></summary>
 
 Hi there, my name is Eric. I code things and do stuff.
 

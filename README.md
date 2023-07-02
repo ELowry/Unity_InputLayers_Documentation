@@ -20,7 +20,7 @@ Wehther you prefer to work entirely from within the Unity Editor, or are a C# pu
 
 Please head over to the [Wiki tab](https://github.com/ELowry/Unity_InputLayers_Documentation/wiki) to find the InputLayers documentation.
 
-It is currently a work in progress; so please
+It is currently a work in progress; so don't be surprised if something is missing or lacks clarity.
 
 ## ⁉️ Support & Reporting Issues
 

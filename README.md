@@ -1,10 +1,10 @@
 # InputLayers
 
-![InputLayers logo](logo.png)
+[![InputLayers logo](logo.png)](https://assetstore.unity.com/packages/slug/259582)
 
 ### A rich layer-based input filtering system for your Unity projects!
 
-Welcome to the documentation for **InputLayers**, the Unity Package that simplifies and extends the usability of the the official [InputSystem](https://docs.unity3d.com/Packages/com.unity.inputsystem@1.6/manual/index.html) using rich layer-based filtering.
+Welcome to the documentation for **[InputLayers](https://assetstore.unity.com/packages/slug/259582)**, the Unity Package that simplifies and extends the usability of the the official [InputSystem](https://docs.unity3d.com/Packages/com.unity.inputsystem@1.6/manual/index.html) using rich layer-based filtering.
 
 *From now on, you'll never have to worry about your character reacting to inputs when a menu or popup is open, or that your UI tabs keep recieving inputs when the user is using chat! let InputLayers handle it for you!*
 
@@ -15,9 +15,9 @@ Wehther you prefer to work entirely from within the Unity Editor, or are a C# pu
 > **Warning**<br/>
 > InputLayers is currently in early preview.
 >
-> For now, it is unavailable, and only this documentation is publicly accessible. It will eventually be made available on the [Unity Asset Store](https://assetstore.unity.com/).
+> You can download it for free from the [Unity Asset Store](https://assetstore.unity.com/packages/slug/259582); though it may eventually become a paid asset.
 >
-> However, if you wish to try it out, please contact me and I will be happy to send the code base over.
+> If this happens, you will still be able to use it; but will not recieve any new updates.
 
 ## 📑 Documentation
 

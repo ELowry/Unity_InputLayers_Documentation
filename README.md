@@ -1,4 +1,7 @@
 # InputLayers
+
+![InputLayers logo](logo.png)
+
 ### A rich layer-based input filtering system for your Unity projects!
 
 Welcome to the documentation for **InputLayers**, the Unity Package that simplifies and extends the usability of the the official [InputSystem](https://docs.unity3d.com/Packages/com.unity.inputsystem@1.6/manual/index.html) using rich layer-based filtering.

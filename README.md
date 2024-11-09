@@ -10,6 +10,8 @@ Welcome to the documentation for **[InputLayers](https://assetstore.unity.com/pa
 
 Wehther you prefer to work entirely from within the Unity Editor, or are a C# purist, InputLayers has got you covered.
 
+▶️ **Watch the [InputLayers video introduction on YouTube](https://www.youtube.com/watch?v=bXEuzpbGlCI) to learn more.**
+
 ## 💾 Where to get InputLayers
 
 > **Warning**<br/>

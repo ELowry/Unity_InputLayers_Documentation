@@ -39,7 +39,7 @@ I'll try to help you as best I can! However, I would ask that you remain patient
 
 ### ⚠️ Bugs & Issues
 
-For any specific bugs or issues when using CinQ, simply use the dedicated [Issues tab](https://github.com/ELowry/Unity_InputLayers_Documentation/issues)... that's what it's for! 😁
+For any specific bugs or issues when using InputLayers, simply use the dedicated [Issues tab](https://github.com/ELowry/Unity_InputLayers_Documentation/issues)... that's what it's for! 😁
 
 🤚🏻 But wait!<br/>
 Please make sure that you are actually posting about a bug/issue with how  InputLayers runs, and not just asking a question! For that, please use the [Discussions tab](https://github.com/ELowry/Unity_InputLayers_Documentation/discussions) instead.

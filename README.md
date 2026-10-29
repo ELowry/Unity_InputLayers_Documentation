@@ -4,7 +4,7 @@
 
 ### A rich layer-based input filtering system for your Unity projects!
 
-Welcome to the documentation for **[InputLayers](https://assetstore.unity.com/packages/slug/259582)**, the Unity Package that simplifies and extends the usability of the the official [InputSystem](https://docs.unity3d.com/Packages/com.unity.inputsystem@1.6/manual/index.html) using rich layer-based filtering.
+Welcome to the documentation for **[InputLayers](https://assetstore.unity.com/packages/slug/259582)**, the Unity Package that simplifies and extends the usability of the the official [InputSystem](https://docs.unity3d.com/Packages/com.unity.inputsystem@1.20/manual/index.html) using rich layer-based filtering.
 
 *From now on, you'll never have to worry about your character reacting to inputs when a menu or popup is open, or that your UI tabs keep recieving inputs when the user is using chat! let InputLayers handle it for you!*
 

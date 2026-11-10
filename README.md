@@ -47,7 +47,3 @@ Hi there, my name is Eric. I code things and do stuff.
 
 I started InputLayers as a system for a game I was working on, and thought it could be useful for other people; so I decided to try and publish it somehow.<br/>
 That's about it!
-
-> **Note**<br/>
-I am unsure how I will publish InputLayers. I believe it will be freely accessible for a certain duration, and may be come pay-as-you-want or possibly paid (nothing too expensive) after an initial beta period.
-</details>

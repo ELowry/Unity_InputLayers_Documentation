@@ -14,12 +14,7 @@ Wehther you prefer to work entirely from within the Unity Editor, or are a C# pu
 
 ## 💾 Where to get InputLayers
 
-> **Warning**<br/>
-> InputLayers is currently in early preview.
->
-> You can download it for free from the [Unity Asset Store](https://assetstore.unity.com/packages/slug/259582); though it may eventually become a paid asset.
->
-> If this happens, you will still be able to use it; but will not recieve any new updates.
+You can download it for free from the [Unity Asset Store](https://assetstore.unity.com/packages/slug/259582).
 
 ## 📑 Documentation
 
